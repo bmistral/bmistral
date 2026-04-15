@@ -1,7 +1,12 @@
-- 👋 Hi there 
+🤖 Data Science | ML & GenAI Engineer
+I'm a French Engineer passionate about turning complex AI ideas into real, impactful applications.
 
-I'm an Applied Mathematics engineer, currently Data Scientist in Lyon (France). 
+⚡ What drives me: the full journey from model to production — clean code, solid architecture, measurable impact.
 
-- 👀 I’m interested in Data Science, Machine Learning, Numerical Methods
-- 🌱 I’m currently learning Desktop Applications and cloud development
-- 📫 How to reach me : baptiste.mistral@gmail.com 
+📐 Background in Applied Mathematics (ENSEIRB-MATMECA)
+
+🌍 Based in Bordeaux 
+
+💬 Always happy to connect on GenAI, MLOps or data engineering topics
+
+📫 How to reach me : baptiste.mistral@gmail.com 
