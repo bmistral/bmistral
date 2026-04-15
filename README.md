@@ -4,9 +4,9 @@ I'm a French Engineer passionate about turning complex AI ideas into real, impac
 
 ⚡ What drives me: the full journey from model to production — clean code, solid architecture, measurable impact.
 
-📐 Background in Applied Mathematics (ENSEIRB-MATMECA)
+📐 Background in Data Science and Applied Mathematics (ENSEIRB-MATMECA)
 
-🌍 Based in Bordeaux 
+🌍 Based in Bordeaux, France
 
 💬 Always happy to connect on GenAI, MLOps or data engineering topics
 
