@@ -1,4 +1,5 @@
 🤖 Data Science | ML & GenAI Engineer
+
 I'm a French Engineer passionate about turning complex AI ideas into real, impactful applications.
 
 ⚡ What drives me: the full journey from model to production — clean code, solid architecture, measurable impact.
